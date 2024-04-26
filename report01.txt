@@ -1,0 +1,24 @@
+------------------
+   Reporte 01:
+------------------
+
+ Cliente  Tiempo entre llegadas Hora llegada  Tiempo del trámite Inicia servicio Termina Servicio  Tiempo de espera cliente  Tiempo inactividad del ATM
+       1                     15        19:48                  11           19:48            19:59                       0.0                        15.0
+       2                     10        19:58                  10           19:59            20:09                       1.0                         0.0
+       3                      1        19:59                   9           20:09            20:18                      10.0                         0.0
+       4                      8        20:07                  10           20:18            20:28                      11.0                         0.0
+       5                     19        20:26                  10           20:28            20:38                       2.0                         0.0
+       6                      6        20:32                   4           20:38            20:42                       6.0                         0.0
+       7                      1        20:33                   5           20:42            20:47                       9.0                         0.0
+       8                      6        20:39                   5           20:47            20:52                       8.0                         0.0
+       9                     18        20:57                  10           20:57            21:07                       0.0                         5.0
+      10                     12        21:09                  10           21:09            21:19                       0.0                         2.0
+      11                     16        21:25                  12           21:25            21:37                       0.0                         6.0
+      12                     18        21:43                  10           21:43            21:53                       0.0                         6.0
+
+--------------------------------------------------
+Tiempo de espera promedio por cliente: 3.92 minutos
+Probabilidad de que un cliente espera en la fila: 58.333%
+Porcentaje de tiempo en que el ATM estuvo inactivo: 27.200%
+Tiempo promedio de servicio: 8.83 minutos
+--------------------------------------------------
